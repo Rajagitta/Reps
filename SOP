@@ -4,6 +4,8 @@
 	<xsd:element name="purchaseOrder" type="tns:PurchaseOrderType"/>
 	<xsd:complexType name="USAddress">
 		<xsd:annotation>
+            1
+        ***--- new ----****
 			<xsd:documentation>
         Purchase order schema for Example.Microsoft.com.
       </xsd:documentation>
